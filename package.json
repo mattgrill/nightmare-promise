@@ -8,5 +8,9 @@
     "serve": "./node_modules/.bin/http-server www -p 8000 -c-1"
   },
   "author": "Matthew Grill",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "nightmare": "^2.6.1"
+  }
 }
