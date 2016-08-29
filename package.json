@@ -1,0 +1,12 @@
+{
+  "name": "nightmare-parallel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "serve": "./node_modules/.bin/http-server www -p 8000 -c-1"
+  },
+  "author": "Matthew Grill",
+  "license": "MIT"
+}
